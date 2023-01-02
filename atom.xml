@@ -6,7 +6,7 @@
   <link href="https://www.morii.gq/atom.xml" rel="self"/>
   
   <link href="https://www.morii.gq/"/>
-  <updated>2022-12-26T01:57:38.448Z</updated>
+  <updated>2023-01-02T02:05:37.596Z</updated>
   <id>https://www.morii.gq/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>新的一年</title>
+    <link href="https://www.morii.gq/2023/01/01/20230101/"/>
+    <id>https://www.morii.gq/2023/01/01/20230101/</id>
+    <published>2023-01-01T10:07:43.000Z</published>
+    <updated>2023-01-02T02:05:37.596Z</updated>
+    
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><script class="meting-secondary-script-marker" src="\assets\js\Meting.min.js"></script><p>新的一年来了，但也只是时间在向前罢了，所有的人所有的事依然是旧的延续。<br>新的一年，人是否成长了呢？恐怕没的，人的成长和新的一年又有什么关系呢？只不过数字上有所变化罢了，一个人的成长，有可能在一瞬间，有些人需要数年，有些人即使成了大人也依旧像小孩一般，这取决于他的知识积累和生活经历，时间只是一个附属产物罢了。<br>新的一年，所谓新，可又有什么新的呢？只不过表面的新罢了，一切都是旧的，或者说是旧的延续，对于任何事而言，它发生了，就像一盒罐头已经开盖，它不再新了，要么将它吃掉，要么等它腐烂。能称之为新的恐怕只能是用来想象的未来。<br>在旧的延续下，也没什么值得奢望的，走好现在的路就够了吧，新的路留给别人去开拓好了。</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;\assets\css\APlayer.min.css&quot;&gt;&lt;script src=&quot;\assets\js\APlayer.min.js&quot; cla</summary>
+      
+    
+    
+    
+    <category term="生活" scheme="https://www.morii.gq/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+    <category term="随笔" scheme="https://www.morii.gq/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+    <category term="新年" scheme="https://www.morii.gq/tags/%E6%96%B0%E5%B9%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>Alist搭建</title>
